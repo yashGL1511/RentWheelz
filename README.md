@@ -16,13 +16,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/car-rental-service.git
+    git clone [https://github.com/yourusername/car-rental-service.git](https://github.com/yashGL1511/RentWheelz)
     ```
 
 2. Install the Python dependencies:
-    ```
-    pip install -r requirements.txt
-    ```
 
 3. Install the Node.js dependencies:
     ```
